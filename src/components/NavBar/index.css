@@ -1,0 +1,17 @@
+/* Write your code here. */
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+  background-color: #ffffff33;
+  font-weight: bold;
+  width: 100vw;
+  margin-bottom: 30px;
+}
+
+.nav-item {
+  display: flex;
+  justify-content: space-between;
+  width: 15vw;
+}

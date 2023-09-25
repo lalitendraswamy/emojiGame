@@ -1,0 +1,21 @@
+/* Write your code here. */
+.bg {
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+  height: 100vh;
+  font-family: roboto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 70vw;
+  height: 80vh;
+}

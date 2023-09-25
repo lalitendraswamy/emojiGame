@@ -1,0 +1,18 @@
+/* Write your code here. */
+
+li {
+  height: 25vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  background-color: #ffffff33;
+  width: 15vw;
+}
+
+.img-btn {
+  cursor: pointer;
+  outline: none;
+  background-color: transparent;
+  border-style: none;
+}

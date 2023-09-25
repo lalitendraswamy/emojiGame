@@ -1,0 +1,38 @@
+/* Write your code here. */
+.wl-card {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 70vw;
+  height: 80vh;
+  background-color: #ffffff33;
+  border-radius: 10px;
+  font-weight: bold;
+  color: white;
+  font-size: 40px;
+}
+
+.wl-inner {
+  text-align: center;
+}
+
+.wl-scoreh {
+  font-size: 30px;
+}
+.wl-score {
+  font-size: 35px;
+  color: #6a59ff;
+  font-weight: bolder;
+  margin-top: -15px;
+}
+
+.wl-btn {
+  padding: 10px;
+  border-radius: 9px;
+  background-color: #ffce27;
+  color: #3d3d3d;
+  cursor: pointer;
+  outline: none;
+  border-style: none;
+  font-weight: bolder;
+}
